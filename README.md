@@ -1,1 +1,1 @@
-itWaves|https://lhetstest.github.io/itwaves.github.io/
+[itWaves](https://lhetstest.github.io/itwaves.github.io/)
